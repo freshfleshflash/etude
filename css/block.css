@@ -1,0 +1,13 @@
+body {
+
+}
+
+#block {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+#first {
+    text-align: center;
+}
